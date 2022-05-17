@@ -5,7 +5,7 @@
 - **React** & **React Native** FrontEnd Web FrameWork and Cross-Platform  
 - **NestJS** efficient,scalable Node.js server-side application
 - Machine learning Server deployment using **Flask** and **TensorFlow**
-- Server Tuning using Docker and Kubernetees
+
 
 
 ## Prefer Stack
