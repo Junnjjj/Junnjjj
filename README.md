@@ -22,6 +22,10 @@
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Junnjjj)](https://github.com/Junnjjj)
 
+
+## github Top language
+<a href="https://github.com/Junnjjj"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junnjjj&layout=compact&theme=nord&hide_border=true" /></a> 
+
 ---
 
 
